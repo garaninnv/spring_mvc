@@ -15,6 +15,8 @@ Your name: ${employee.name}
 Surname: ${employee.surname}
 <br><br>
 Salary: ${employee.salary}
+<br><br>
+Department: ${employee.department}
 
 </body>
 </html>
